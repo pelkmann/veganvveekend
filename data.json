@@ -1,5 +1,5 @@
 {
-  "tagline": "Veganes Essen. Gute Vibes. Jeden vorletzten Sonntag im Monat.",
+  "tagline": "Bring deine vegane Lieblingsspeise mit und lerne uns kennen. Kein Eintritt. Jeden vorletzten Sonntag im Monat.",
   "gallery": [
     {
       "src": "img/impressionen-01.jpg",
@@ -25,7 +25,7 @@
       "url": "#",
       "icon": "calendar",
       "location": "Dortmund · Kirchenstr. 25, 44145",
-      "mapUrl": "https://www.openstreetmap.org/?mlat=51.5190&mlon=7.4653#map=18/51.5190/7.4653",
+      "mapUrl": "https://www.openstreetmap.org/way/922306921",
       "ical": {
         "start": "20260419T140000",
         "end": "20260419T200000",
@@ -38,18 +38,12 @@
       "url": "#",
       "icon": "calendar",
       "location": "Dortmund · Kirchenstr. 25, 44145",
-      "mapUrl": "https://www.openstreetmap.org/?mlat=51.5190&mlon=7.4653#map=18/51.5190/7.4653",
+      "mapUrl": "https://www.openstreetmap.org/way/922306921",
       "ical": {
         "start": "20260524T140000",
         "end": "20260524T200000",
         "address": "Kirchenstr. 25, 44145 Dortmund"
       }
-    },
-    {
-      "title": "Anmeldung / Tickets",
-      "desc": "Sichere dir deinen Platz",
-      "url": "#",
-      "icon": "ticket"
     }
   ],
   "social": [
