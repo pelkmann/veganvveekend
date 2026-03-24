@@ -1,0 +1,71 @@
+{
+  "tagline": "Veganes Essen. Gute Vibes. Jedes Wochenende.",
+  "gallery": [
+    {
+      "src": "img/impressionen-01.jpg",
+      "alt": "Vegane Burger auf dem Grill"
+    },
+    {
+      "src": "img/impressionen-02.jpg",
+      "alt": "Gemeinschaft am langen Tisch"
+    },
+    {
+      "src": "img/impressionen-03.jpg",
+      "alt": "Bunte Bowl mit frischem Gemüse"
+    },
+    {
+      "src": "img/impressionen-04.jpg",
+      "alt": "Live-Cooking Station"
+    }
+  ],
+  "termine": [
+    {
+      "title": "Vegan Vveekend #1",
+      "desc": "12. April 2025 · 11:00 – 18:00 Uhr",
+      "url": "#",
+      "icon": "calendar",
+      "location": "Musterstadt · Musterstraße 42",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=51.3397&mlon=12.3731#map=17/51.3397/12.3731"
+    },
+    {
+      "title": "Vegan Vveekend #2",
+      "desc": "10. Mai 2025 · 12:00 – 19:00 Uhr",
+      "url": "#",
+      "icon": "calendar",
+      "location": "Berlin · Markthalle Neun",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=52.5024&mlon=13.4280#map=17/52.5024/13.4280"
+    },
+    {
+      "title": "Anmeldung / Tickets",
+      "desc": "Sichere dir deinen Platz",
+      "url": "#",
+      "icon": "ticket"
+    }
+  ],
+  "social": [
+    {
+      "title": "Instagram",
+      "desc": "@veganvveekend",
+      "url": "https://instagram.com/veganvveekend",
+      "icon": "instagram"
+    },
+    {
+      "title": "X / Twitter",
+      "desc": "@veganvveekend",
+      "url": "https://x.com/veganvveekend",
+      "icon": "twitter"
+    },
+    {
+      "title": "YouTube",
+      "desc": "Rezepte & Vlogs",
+      "url": "https://youtube.com/@veganvveekend",
+      "icon": "youtube"
+    },
+    {
+      "title": "TikTok",
+      "desc": "@veganvveekend",
+      "url": "https://tiktok.com/@veganvveekend",
+      "icon": "tiktok"
+    }
+  ]
+}
