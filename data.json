@@ -1,5 +1,5 @@
 {
-  "tagline": "Veganes Essen. Gute Vibes. Jedes Wochenende.",
+  "tagline": "Veganes Essen. Gute Vibes. Jeden vorletzten Sonntag im Monat.",
   "gallery": [
     {
       "src": "img/impressionen-01.jpg",
@@ -21,19 +21,29 @@
   "termine": [
     {
       "title": "Vegan Vveekend #1",
-      "desc": "12. April 2025 · 11:00 – 18:00 Uhr",
+      "desc": "19. April 2026 · ab 14:00 Uhr",
       "url": "#",
       "icon": "calendar",
-      "location": "Musterstadt · Musterstraße 42",
-      "mapUrl": "https://www.openstreetmap.org/?mlat=51.3397&mlon=12.3731#map=17/51.3397/12.3731"
+      "location": "Dortmund · Kirchenstr. 25, 44145",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=51.5190&mlon=7.4653#map=18/51.5190/7.4653",
+      "ical": {
+        "start": "20260419T140000",
+        "end": "20260419T200000",
+        "address": "Kirchenstr. 25, 44145 Dortmund"
+      }
     },
     {
       "title": "Vegan Vveekend #2",
-      "desc": "10. Mai 2025 · 12:00 – 19:00 Uhr",
+      "desc": "24. Mai 2026 · ab 14:00 Uhr",
       "url": "#",
       "icon": "calendar",
-      "location": "Berlin · Markthalle Neun",
-      "mapUrl": "https://www.openstreetmap.org/?mlat=52.5024&mlon=13.4280#map=17/52.5024/13.4280"
+      "location": "Dortmund · Kirchenstr. 25, 44145",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=51.5190&mlon=7.4653#map=18/51.5190/7.4653",
+      "ical": {
+        "start": "20260524T140000",
+        "end": "20260524T200000",
+        "address": "Kirchenstr. 25, 44145 Dortmund"
+      }
     },
     {
       "title": "Anmeldung / Tickets",
@@ -46,26 +56,14 @@
     {
       "title": "Instagram",
       "desc": "@veganvveekend",
-      "url": "https://instagram.com/veganvveekend",
+      "url": "https://www.instagram.com/veganvveekend/",
       "icon": "instagram"
     },
     {
-      "title": "X / Twitter",
-      "desc": "@veganvveekend",
-      "url": "https://x.com/veganvveekend",
-      "icon": "twitter"
-    },
-    {
-      "title": "YouTube",
-      "desc": "Rezepte & Vlogs",
-      "url": "https://youtube.com/@veganvveekend",
-      "icon": "youtube"
-    },
-    {
-      "title": "TikTok",
-      "desc": "@veganvveekend",
-      "url": "https://tiktok.com/@veganvveekend",
-      "icon": "tiktok"
+      "title": "Facebook",
+      "desc": "Vegan VVeekend Dortmund",
+      "url": "https://www.facebook.com/p/Vegan-VVeekend-Dortmund-100083466302338/",
+      "icon": "facebook"
     }
   ]
 }
